@@ -5,3 +5,5 @@ npm-debug.log
 .env
 dist
 tmp
+README.md
+.gitignore
